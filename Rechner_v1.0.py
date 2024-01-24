@@ -1,6 +1,5 @@
 from PyQt5.QtWidgets import QApplication, QWidget, QComboBox, QLabel, QVBoxLayout, QPushButton
 
-
 def calculate():
     group = combo_group.currentText()
     duration = combo_duration.currentText()
